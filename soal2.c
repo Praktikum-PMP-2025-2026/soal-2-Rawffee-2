@@ -15,7 +15,7 @@ int main (){
         }
     }
 
-    printf("ISLANDS 0");
+    printf("ISLANDS 0\n");
     printf("LARGEST 0");
 
 return 0;
